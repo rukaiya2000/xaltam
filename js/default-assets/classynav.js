@@ -11,7 +11,7 @@
         var navContainer = $('.classy-nav-container');
         var classy_nav = $('.classynav ul');
         var classy_navli = $('.classynav > ul > li');
-        var navbarToggler = $('.classy-navbar-toggler');
+        // var navbarToggler = $('.classy-navbar-toggler');
         var closeIcon = $('.classycloseIcon');
         var navToggler = $('.navbarToggler');
         var classyMenu = $('.classy-menu');

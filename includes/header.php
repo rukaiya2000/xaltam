@@ -50,10 +50,7 @@ and world-class offerings." />
                 <a class="nav-brand" href="home"><img src="img/core-img/xal_logo1.png"  alt=""></a>
 
                 <!-- Navbar Toggler -->
-                <div class="classy-navbar-toggler">
-                    <span class="navbarToggler"><span></span><span></span><span></span></span>
-                </div>
-
+                
                 <!-- Menu -->
                 <div class="classy-menu">
                     <!-- Menu Close Button -->

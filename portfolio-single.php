@@ -7,13 +7,7 @@
                 <div class="col-12">
                     <div class="breadcumb--con">
                         <h2 class="title">Portfolio</h2>
-                        <nav aria-label="breadcrumb">
-                            <ol class="breadcrumb">
-                                <li class="breadcrumb-item"><a href="home"><i class="fa fa-home"></i> Home</a></li>
-                                <li class="breadcrumb-item"><a href="portfolio">Portfolio</a></li>
-                                <li class="breadcrumb-item active" aria-current="page">App Developement</li>
-                            </ol>
-                        </nav>
+                        
                     </div>
                 </div>
             </div>
